@@ -21,6 +21,7 @@ With this rules considering there are 11 players in the game, out of which usual
 ### To make it fun I am going to predict every single game of the IPL 2023 and publish it before the game starts, also I will be placing a small bet in a betting site to see how much I earn/lose by end of the tournament. Also my friend will be placing a similar bet on a team but not based on my model but based on the self intution. I thought this will be a fun experiment to conduct who makes highest number of correct prediction, a human or a ML model. 
 
 # Follow me on my social media to get quick updates on the model prediction and the results
+Feel free to critic the code or the method
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vishnu-the-analyst.github.io/portfolio/index.html)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-eswaran/)
